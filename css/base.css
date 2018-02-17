@@ -1,2 +1,15 @@
-/* Base CSS Template */
-TEST TEST TEST
+/* Row 1 */
+header {
+  background-color: #F8F8F8;
+}
+
+header ul {
+  margin: 0;
+}
+
+header a,
+header li {
+  padding: 1.4rem 0;
+  color: #777;
+  font-weight: bold;
+}
